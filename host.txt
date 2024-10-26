@@ -1,0 +1,1 @@
+{"emby.wiski.online": {"cdn": ["CM", "CU", "CT","AB"]},"deepl.wiski.online": {"cdn": ["CM", "CU", "CT","AB"]},"app.wiski.online": {"cdn": ["CM", "CU", "CT","AB"]}}
