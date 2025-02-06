@@ -1,3 +1,5 @@
+## Action 已于 2025.2.6 暂停
+
 ### 增加dddb/cf2dns docker镜像  --update 2024.6.4
 
 > 使用方法
